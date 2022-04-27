@@ -1,0 +1,1 @@
+https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout
